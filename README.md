@@ -1,16 +1,32 @@
-## Hi there 👋
+# InfraZenOps
 
-<!--
-**infrazenops/infrazenops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer focused on building reliable,
+automated and scalable infrastructure.
 
-Here are some ideas to get you started:
+## ⚙️ Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud       AWS • GCP
+Containers  Docker • Kubernetes
+IaC         Terraform
+CI/CD       GitHub Actions
+GitOps      Argo CD
+Monitoring  Prometheus • Grafana
+Languages   Go • Python • Bash
+
+## 🚀 Featured Projects
+
+- Production Kubernetes Platform
+- Terraform Cloud Infrastructure
+- DevSecOps CI/CD Pipeline
+- Kubernetes Observability Stack
+- GitOps Deployment Platform
+- DevOps Automation Toolkit
+
+## 📚 Currently Building
+
+Production-grade cloud infrastructure,
+Kubernetes platforms and DevOps automation.
+
+## 📫 Connect
+
+GitHub: @infrazenops
